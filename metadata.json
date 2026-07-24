@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Agendamento - DevClub",
+  "description": "Sistema de agendamento de serviços com bloqueio de horários em tempo real, confirmação de agendamentos e painel administrativo completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
